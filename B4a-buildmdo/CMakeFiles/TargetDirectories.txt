@@ -1,0 +1,7 @@
+/home/adi/GEANT4/geant4_work/examples/B4a-buildmdo/CMakeFiles/install/strip.dir
+/home/adi/GEANT4/geant4_work/examples/B4a-buildmdo/CMakeFiles/install/local.dir
+/home/adi/GEANT4/geant4_work/examples/B4a-buildmdo/CMakeFiles/exampleB4a.dir
+/home/adi/GEANT4/geant4_work/examples/B4a-buildmdo/CMakeFiles/rebuild_cache.dir
+/home/adi/GEANT4/geant4_work/examples/B4a-buildmdo/CMakeFiles/edit_cache.dir
+/home/adi/GEANT4/geant4_work/examples/B4a-buildmdo/CMakeFiles/install.dir
+/home/adi/GEANT4/geant4_work/examples/B4a-buildmdo/CMakeFiles/list_install_components.dir
